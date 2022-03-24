@@ -20,6 +20,7 @@
 <a href="https://app.patika.dev/Scone83"><img src="https://miro.medium.com/max/3150/2*TZeK0kyHTRHVv3gUi8BtQg.png" width="80px" align="left">
 <a href="https://www.linkedin.com/in/selmakoksal/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo "/>
 <br/>
+<br/>
 <hr>
 
 <div align="center">
