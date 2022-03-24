@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:selmakoksal@gmail.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
+<a href="mailto:selmakoksal.1989@gmail.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
 <a href="https://app.patika.dev/Scone83"><img src="https://miro.medium.com/max/3150/2*TZeK0kyHTRHVv3gUi8BtQg.png" width="80px" align="left">
 <a href="https://www.linkedin.com/in/selmakoksal/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo "/>
 
