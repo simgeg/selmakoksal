@@ -5,7 +5,7 @@
         width="180px" />
     <br />
     <br />
-    <samp> <i> I'm Selma from Turkey </i> </samp> 
+    <samp> <i> I'm Selma </i> </samp> 
 </div>
 
 
